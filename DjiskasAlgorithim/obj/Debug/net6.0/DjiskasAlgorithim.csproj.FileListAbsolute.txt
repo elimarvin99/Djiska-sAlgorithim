@@ -1,0 +1,15 @@
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\bin\Debug\net6.0\DjiskasAlgorithim.exe
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\bin\Debug\net6.0\DjiskasAlgorithim.deps.json
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\bin\Debug\net6.0\DjiskasAlgorithim.runtimeconfig.json
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\bin\Debug\net6.0\DjiskasAlgorithim.dll
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\bin\Debug\net6.0\ref\DjiskasAlgorithim.dll
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\bin\Debug\net6.0\DjiskasAlgorithim.pdb
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\DjiskasAlgorithim.csproj.AssemblyReference.cache
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\DjiskasAlgorithim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\DjiskasAlgorithim.AssemblyInfoInputs.cache
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\DjiskasAlgorithim.AssemblyInfo.cs
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\DjiskasAlgorithim.csproj.CoreCompileInputs.cache
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\DjiskasAlgorithim.dll
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\ref\DjiskasAlgorithim.dll
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\DjiskasAlgorithim.pdb
+C:\Users\EliMarvin\Repos\DjiskasAlgorithim\DjiskasAlgorithim\obj\Debug\net6.0\DjiskasAlgorithim.genruntimeconfig.cache
